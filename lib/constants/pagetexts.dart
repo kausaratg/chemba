@@ -1,0 +1,49 @@
+class MypageText {
+  static String username = "User Name";
+  static String email = "Email";
+  static String password = "Password";
+  static String basicuser = "Basic User \n\nGarbage collector \n\nScrap Dealer";
+  static String signup = "Sign Up";
+  static String account = "Already Have an account";
+  static String signin = "Sign In";
+  static String forgot = "Forgot Password?";
+  static String accountlogin = "Don't have an account yet?";
+  static String register = "Register Now";
+  static String event = "Events";
+  static String faq = "FAQ";
+  static String educate = "Educate";
+  static String waste = "What is Waste?";
+  static String wastemangement = "Waste Management";
+  static String wasteexplanation =
+      "This are activities that are aimed in the reduction of adverse effects of waste on human health, the environment, planetary resources and aesthetics, by several methods ";
+  static String importance = " Importance of waste \nManagement";
+  static String type = " Types of Waste";
+  static String location = " Type your location ";
+  static String accra = "Accra";
+  static String temp = "19°C";
+  static String sunny = "Sunny";
+  static String forecast = "Weather Forecast";
+  static String date = "Saturday, 6 May \n 19\nSunny";
+  static String kibera = "Kibera Clean up 16th May 2023";
+  static String kimusu = "Kisumu Recycling Bins installation";
+  static String textdate = " 19th May 2023";
+  static String chemba = "What is Chemba and how does it work?";
+  static String help = "  Help & Support";
+  static String question =
+      "We're always here to answer any of your questions, and support of any kind.";
+  static String chat = "Chat with Customer Support";
+  static String sendemail = "Send us an E-mail";
+  static String connect = "Connect with us on: ";
+  static String profile = "Profile";
+  static String dm = "DM";
+  static String name = "  DAVID MBUGUA";
+  static String nameemail = "   david@gmail.com";
+  static String points = " Points:";
+  static String numeric = " 1,000";
+  static String security = " Security & Privacy";
+  static String logout = "Log out";
+  static String privacy = " Privacy Policy";
+  static String terms = " Terms of service";
+  static String device = "  Devices";
+  static String fore = "Forecast";
+}
